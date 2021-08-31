@@ -1,0 +1,306 @@
+[
+  {
+    "subjectName": "Ingliz tili",
+    "questions": [
+      {
+        "body": "She has been looking for a job............... since she left school.",
+        "answers": [
+          {
+            "body": "ever",
+            "answer": true
+          },
+          {
+            "body": "a long time",
+            "answer": false
+          },
+          {
+            "body": "very",
+            "answer": false
+          },
+          {
+            "body": "never",
+            "answer": false
+          }
+        ]
+      },
+      {
+        "body": "I\u0027m so surprised to hear that he could do it ...............himself",
+        "answers": [
+          {
+            "body": "all by",
+            "answer": true
+          },
+          {
+            "body": "apart from",
+            "answer": false
+          },
+          {
+            "body": "with",
+            "answer": false
+          },
+          {
+            "body": "except for",
+            "answer": false
+          }
+        ]
+      },
+      {
+        "body": "This apple has ............... exceptionally sweet taste",
+        "answers": [
+          {
+            "body": "an",
+            "answer": true
+          },
+          {
+            "body": "much",
+            "answer": false
+          },
+          {
+            "body": "not",
+            "answer": false
+          },
+          {
+            "body": "the",
+            "answer": false
+          }
+        ]
+      },
+      {
+        "body": "............... have you been sitting here in the dark all by yourself?",
+        "answers": [
+          {
+            "body": "How long",
+            "answer": true
+          },
+          {
+            "body": "Since noon",
+            "answer": false
+          },
+          {
+            "body": "When ",
+            "answer": false
+          },
+          {
+            "body": "As long as",
+            "answer": false
+          }
+        ]
+      },
+      {
+        "body": "I\u0027d like ............... lemonade with .............. sugar in it, please.",
+        "answers": [
+          {
+            "body": "a / some",
+            "answer": true
+          },
+          {
+            "body": "the / the",
+            "answer": false
+          },
+          {
+            "body": "a / a",
+            "answer": false
+          },
+          {
+            "body": "a / the",
+            "answer": false
+          }
+        ]
+      },
+      {
+        "body": "\"Where\u0027s Ali?\" \"He ............... out to meet a friend of his.",
+        "answers": [
+          {
+            "body": "\u0027s gone",
+            "answer": true
+          },
+          {
+            "body": "had gone",
+            "answer": false
+          },
+          {
+            "body": "goes",
+            "answer": false
+          },
+          {
+            "body": "is being",
+            "answer": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subjectName": "Matematika",
+    "questions": [
+      {
+        "body": "72 sonidan 12 sonini necha marta ayira olamiz?",
+        "answers": [
+          {
+            "body": "1 marta",
+            "answer": true
+          },
+          {
+            "body": "6 marta",
+            "answer": false
+          },
+          {
+            "body": "5 marta",
+            "answer": false
+          },
+          {
+            "body": "3 marta",
+            "answer": false
+          }
+        ]
+      },
+      {
+        "body": "Bir jamoadagi insonlarning har biri boshqalaridan bittadan kitobni sovg\u0027a sifatida olayapti. Agar hamma bo\u0027lib 600ta kitob sovg\u0027a qilingan bo\u0027lsa jamoa necha kishilik?",
+        "answers": [
+          {
+            "body": "25",
+            "answer": true
+          },
+          {
+            "body": "24",
+            "answer": false
+          },
+          {
+            "body": "23",
+            "answer": false
+          },
+          {
+            "body": "26",
+            "answer": false
+          }
+        ]
+      },
+      {
+        "body": "111, 13, 112, 24, 113, 35, 117, .... ?Keyingi raqamni toping !",
+        "answers": [
+          {
+            "body": "79",
+            "answer": true
+          },
+          {
+            "body": "46",
+            "answer": false
+          },
+          {
+            "body": "57",
+            "answer": false
+          },
+          {
+            "body": "68",
+            "answer": false
+          }
+        ]
+      },
+      {
+        "body": "Imronbekning kitob do\u0027konida 1200 ta kitob bor edi. U dushanba kuni 75, seshanba kuni 50, chorshanba kuni 64, payshanba kuni 78, juma kuni 135 sotgan. Kitoblarning necha foizi sotilmagan?",
+        "answers": [
+          {
+            "body": "66,5 %",
+            "answer": true
+          },
+          {
+            "body": "56,5 %",
+            "answer": false
+          },
+          {
+            "body": "80,5 %",
+            "answer": false
+          },
+          {
+            "body": "34 %",
+            "answer": false
+          }
+        ]
+      },
+      {
+        "body": "Syuzan va Liza bir-biriga qarshi tennis o\u0027ynashga qaror qilishdi. Ular o\u0027ynagan har bir o\u0027yin uchun 1 dollar tikishdi. Suzan uchta o\u0027yinni yutdi va Liza 5 dollar yutib oldi. Ular nechta o\u0027yin o\u0027tkazdilar?  ",
+        "answers": [
+          {
+            "body": "11 ta",
+            "answer": true
+          },
+          {
+            "body": "5 ta",
+            "answer": false
+          },
+          {
+            "body": "8 ta",
+            "answer": false
+          },
+          {
+            "body": "10 ta",
+            "answer": false
+          }
+        ]
+      },
+      {
+        "body": "Ko\u0027lda bir o\u0027rdak oldida ikkita o\u0027rdak bor, bitta o\u0027rdak orqasida esa ikkita o\u0027rdak bor, ikkita o\u0027rdak o\u0027rtasida bitta o\u0027rdak bor edi. Jami bo\u0027lib nechta o\u0027rdak bor edi ? ",
+        "answers": [
+          {
+            "body": "3",
+            "answer": true
+          },
+          {
+            "body": "6",
+            "answer": false
+          },
+          {
+            "body": "9",
+            "answer": false
+          },
+          {
+            "body": "12",
+            "answer": false
+          }
+        ]
+      },
+      {
+        "body": "Bir kishi 600 metr uzunlikdagi ko\u0027chani 5 daqiqada kesib o\u0027tadi. Uning tezligi soatiga necha kilometr? ",
+        "answers": [
+          {
+            "body": "7.2",
+            "answer": true
+          },
+          {
+            "body": "3.6",
+            "answer": false
+          },
+          {
+            "body": "8.5",
+            "answer": false
+          },
+          {
+            "body": "10",
+            "answer": false
+          }
+        ]
+      },
+      {
+        "body": "Agar Q \"qo\u0027shish\" belgisini anglatsa, J \"ko\u0027paytirish\" belgisini anglatsa, T - \"ayiruv\" belgisini anglatsa va K \"bo\u0027lish\" belgisini anglatsa, unda misol qanday yechiladi:  30 K 2 Q 3 J 6 T 5 \u003d?   ",
+        "answers": [
+          {
+            "body": "28",
+            "answer": true
+          },
+          {
+            "body": "18",
+            "answer": false
+          },
+          {
+            "body": "31",
+            "answer": false
+          },
+          {
+            "body": "104",
+            "answer": false
+          }
+        ]
+      }
+    ]
+  }
+]
